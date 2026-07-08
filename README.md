@@ -154,21 +154,27 @@ Built interactive dashboards to monitor business performance, sales trends, cust
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sameershaikh001&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameershaikh001&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sameershaikh001&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Sameershaikh001&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameershaikh001&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Sameershaikh001&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameershaikh001&theme=tokyo-night&hide_border=true"/>
-</p>
 
----
+</div>
 
 # 📬 Let's Connect
 
