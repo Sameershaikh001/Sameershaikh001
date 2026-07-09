@@ -158,15 +158,15 @@ Built interactive dashboards to monitor business performance, sales trends, cust
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sameershaikh001&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sameershaikh001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameershaikh001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameershaikh001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Sameershaikh001&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Sameershaikh001&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
