@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:4F8CFF&height=180&section=header&text=Sameer%20Shaikh&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analytics%20%E2%80%A2%20Python%20Developer&descAlignY=65&descSize=17" width="100%"/>
 
-Building scalable **data engineering pipelines**, intelligent analytics solutions, and automation systems using **Python, SQL, ETL, Power BI, Machine Learning, Cloud, Automation, and Business Intelligence**.
+Building scalable software, intelligent automation, and data-driven solutions using **Python, SQL, Machine Learning, Data Analytics, Power BI, Automation Testing, Cloud Technologies, Backend Development, and Modern Software Engineering Practices**.
 
 [Portfolio](https://analystsameer.onrender.com/) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/sameershaikh27/) &nbsp;•&nbsp; [Email](mailto:sameershaikh02125@gmail.com)
 
@@ -13,26 +13,27 @@ Building scalable **data engineering pipelines**, intelligent analytics solution
 ## 🔍 Quick Facts
 
 - 🎓 B.Tech Computer Science & Engineering (Data Science)
-- 📊 Passionate about **Data Engineering, Data Analytics, and Business Intelligence**
-- 🚀 Built **10+ Power BI dashboards** for the **Indian Army**, transforming complex operational data into actionable insights
-- 🤖 Experienced in **Automation Testing** with Selenium, API Testing, and Python scripting
-- ⚡ Enjoy building scalable ETL pipelines, automating workflows, and solving real-world business problems using data
+- 💻 Passionate about **Software Development, Artificial Intelligence, Data Analytics, Machine Learning, and Automation**
+- 🚀 Built real-world projects across **Business Intelligence, Computer Vision, Automation Testing, Web Development, Machine Learning, and Python**
+- 📊 Developed **10+ interactive Power BI dashboards** for the **Indian Army**, transforming complex operational data into actionable business insights
+- 🤖 Hands-on experience with **Python, SQL, Selenium, Flask, REST APIs, Power BI, Machine Learning, and Business Intelligence**
+- 🌱 Continuously learning modern technologies and building scalable solutions across multiple domains of software engineering
 
 ---
 
-# 🏆 Featured Projects
+# 🚀 Featured Projects
 
 ## 📊 Indian Army Business Intelligence Dashboard
 
-Designed and developed **10+ interactive Power BI dashboards** for the Indian Army to automate reporting and visualize operational KPIs. Cleaned and transformed complex Excel datasets and deployed reports using **Power BI Report Server** for secure, on-premise access.
+Designed and developed **10+ interactive Power BI dashboards** for the Indian Army to automate reporting, visualize operational KPIs, and support data-driven decision-making. Cleaned and transformed complex Excel datasets while deploying reports securely using **Power BI Report Server**.
 
 ### Highlights
 
 - Developed 10+ executive Power BI dashboards
-- Performed extensive data cleaning using Power Query
-- Built KPI dashboards using DAX measures
-- Published reports through Power BI Report Server
-- Automated reporting workflows for better decision-making
+- Performed extensive data cleaning and transformation using Power Query
+- Built KPI dashboards with advanced DAX measures
+- Published reports using Power BI Report Server
+- Automated reporting workflows for operational insights
 
 ### Tech Stack
 
@@ -42,15 +43,15 @@ Designed and developed **10+ interactive Power BI dashboards** for the Indian Ar
 
 ## 🤖 Student ERP Automation Testing
 
-Automated a web-based Student ERP system by developing Selenium automation scripts, executing regression testing, validating APIs, and reporting defects. Improved testing efficiency through reusable automation frameworks.
+Developed an automation testing framework for a web-based Student ERP system using Selenium and Python. Automated repetitive testing tasks, validated APIs, and improved testing efficiency through reusable scripts.
 
 ### Highlights
 
 - Automated functional and regression testing
-- API Testing using Postman
-- Test case creation and bug reporting
-- Selenium automation framework using Python
-- Improved testing accuracy and reduced manual effort
+- Performed API testing using Postman
+- Designed reusable Selenium automation scripts
+- Created test cases and reported defects
+- Improved testing efficiency and reduced manual effort
 
 ### Tech Stack
 
@@ -60,13 +61,13 @@ Automated a web-based Student ERP system by developing Selenium automation scrip
 
 ## 🎓 Face Recognition Attendance System
 
-Developed an AI-powered attendance management system using facial recognition and computer vision to automate attendance tracking in educational institutions.
+Built an AI-powered attendance management system that leverages facial recognition and computer vision to automate attendance tracking with improved speed and accuracy.
 
 ### Highlights
 
-- Real-time face recognition using OpenCV
+- Real-time face detection and recognition
 - Flask-based web application
-- Automatic attendance logging
+- Automated attendance logging
 - SQLite database integration
 - Image preprocessing and facial matching
 
@@ -78,15 +79,15 @@ Developed an AI-powered attendance management system using facial recognition an
 
 ## 🏦 Flask Banking Management System
 
-Developed a secure banking application with account management, authentication, transaction handling, and database integration using Flask.
+Developed a secure banking application featuring account management, authentication, and transaction processing using Flask and MySQL.
 
 ### Highlights
 
-- User authentication
-- CRUD banking operations
+- Secure user authentication
+- Banking CRUD operations
 - MySQL database integration
 - Responsive web interface
-- Backend development using Flask
+- RESTful backend architecture
 
 ### Tech Stack
 
@@ -96,14 +97,14 @@ Developed a secure banking application with account management, authentication, 
 
 ## ⚽ FIFA Data Analysis
 
-Performed exploratory data analysis on FIFA player datasets to identify trends, player performance metrics, and valuable business insights using Python.
+Performed exploratory data analysis on FIFA player datasets to uncover player performance trends and generate meaningful business insights through visual analytics.
 
 ### Highlights
 
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis
-- Interactive visualizations
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
 - Statistical analysis
+- Interactive data visualizations
 - Performance comparison dashboards
 
 ### Tech Stack
@@ -114,15 +115,15 @@ Performed exploratory data analysis on FIFA player datasets to identify trends, 
 
 ## 📈 Sales & Business Analytics Dashboard
 
-Built interactive dashboards to monitor business performance, sales trends, customer insights, and revenue analysis for data-driven decision-making.
+Designed interactive dashboards to analyze sales performance, customer behavior, and revenue trends, enabling better business decision-making.
 
 ### Highlights
 
-- Interactive dashboards
-- KPI monitoring
+- Interactive KPI dashboards
 - Sales trend analysis
 - Customer behavior insights
-- Business reporting
+- Revenue performance monitoring
+- Executive business reporting
 
 ### Tech Stack
 
@@ -132,27 +133,33 @@ Built interactive dashboards to monitor business performance, sales trends, cust
 
 # 🛠 Tech Stack
 
-### 📊 Data Engineering
+### 💻 Programming Languages
 
-`Python` • `SQL` • `MySQL` • `PostgreSQL` • `ETL` • `Power Query`
+`Python` • `SQL` • `JavaScript` • `C++`
 
-### 📈 Data Analytics & BI
+### 🤖 Artificial Intelligence & Machine Learning
 
-`Power BI` • `Excel` • `DAX` • `Pandas` • `NumPy`
+`Scikit-learn` • `OpenCV` • `Pandas` • `NumPy` • `Machine Learning` • `Computer Vision`
 
-### 🤖 Machine Learning
+### 📊 Data Analytics & Business Intelligence
 
-`Scikit-learn` • `OpenCV` • `Data Preprocessing` • `Model Building`
+`Power BI` • `Excel` • `DAX` • `Power Query` • `Data Visualization`
 
-### ⚙️ Automation & Testing
+### 🌐 Backend Development
 
-`Python` • `Selenium` • `Pytest` • `Postman`
+`Flask` • `REST APIs`
 
-### 💻 Development
+### 🗄 Databases
 
-`Flask` • `Git` • `GitHub`
+`MySQL` • `PostgreSQL` • `SQLite`
 
----
+### 🧪 Automation Testing
+
+`Selenium` • `Pytest` • `Postman`
+
+### 🛠 Developer Tools
+
+`Git` • `GitHub` • `VS Code`
 
 ## 📊 GitHub Activity
 
