@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:4F8CFF&height=190&section=header&text=Sameer%20Shaikh&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer&descAlignY=67&descSize=20" width="100%"/>
 
-Building scalable software, intelligent automation, and data-driven solutions using **Python, SQL, Machine Learning, Data Analytics, Power BI, Automation Testing, Cloud Technologies, Backend Development, and Modern Software Engineering Practices**.
+Building scalable software, intelligent automation, and data-driven solutions using **Python, SQL, Machine Learning, Data Analytics, Power BI, Automation Testing, Cloud Technologies, Backend Development, and Modern Software Engineering Practice**.
 
 [Portfolio](https://analystsameer.onrender.com/) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/sameershaikh27/) &nbsp;•&nbsp; [Email](mailto:sameershaikh02125@gmail.com)
 
